@@ -5,4 +5,5 @@ package com.ms.shop;
  */
 public class dd {
     int i=0;
+    int j=1;
 }
